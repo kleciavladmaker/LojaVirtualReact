@@ -1,0 +1,11 @@
+section > article{
+  flex-basis: 40%;
+  background-color: #32a4e7;
+  color: #ffffff;
+  padding: 10px;
+}
+
+section > article > p {
+  padding: 30px;
+  text-align: justify;
+}

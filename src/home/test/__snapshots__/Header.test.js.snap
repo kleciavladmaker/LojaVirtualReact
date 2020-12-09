@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> Validar foto 1`] = `
+<header
+  data-testid="header"
+>
+  <img
+    alt="ogo do site"
+    src="logo.png"
+  />
+  <h1>
+    Loja Virtual
+  </h1>
+</header>
+`;

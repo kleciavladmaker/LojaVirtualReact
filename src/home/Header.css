@@ -1,0 +1,12 @@
+
+header {
+  display: flex;
+  background-color: #4CAF50;
+  color: #ffffff;
+  padding: 15px;
+}
+
+header > h1 {
+  flex-grow: 1;
+  text-align: center;
+}

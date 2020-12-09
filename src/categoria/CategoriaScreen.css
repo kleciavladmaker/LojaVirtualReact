@@ -1,0 +1,22 @@
+section {
+  display: flex;
+  justify-content: center;
+}
+
+section nav {
+  display: flex;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+#pr_id_1{
+  width: 100%;
+}
+
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 15px;
+}
